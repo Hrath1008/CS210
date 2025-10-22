@@ -11,7 +11,7 @@ I did well with the layout of the menu that the user interacted with the tables 
 
 •	Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-I could separate the cosmetic functions, such as the main menu of the program, from the program functions, the output tables. This would make my program be more manageable and organized. 
+I could separate the cosmetic functions, such as the main menu of the program, into its own class rather than putting in the main cpp file like I did for the program functions, the output tables. This would make my program be more manageable and organized.
 
 •	Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
